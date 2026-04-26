@@ -1,0 +1,987 @@
+[
+    {
+        "id": "1",
+        "name": "Arjun Mehta",
+        "title": "Senior Software Engineer",
+        "years_experience": 6,
+        "location": "Bangalore",
+        "skills": [
+            "Python",
+            "Django",
+            "FastAPI",
+            "PostgreSQL",
+            "Redis",
+            "AWS",
+            "Docker",
+            "Kubernetes"
+        ],
+        "industries": [
+            "Fintech",
+            "E-commerce",
+            "SaaS"
+        ],
+        "current_company": "Paytm",
+        "education": "B.Tech in Computer Science, IIT Bombay",
+        "summary": "Experienced backend developer with strong expertise in building scalable microservices. Led development of payment processing systems handling 10M+ transactions daily.",
+        "desired_roles": [
+            "Backend Engineer",
+            "Staff Engineer",
+            "Tech Lead"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 3500000,
+        "availability": "2 weeks",
+        "seniority": "senior",
+        "tags": [
+            "backend",
+            "python",
+            "microservices",
+            "payment-systems"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Priya Sharma",
+        "title": "AI/ML Engineer",
+        "years_experience": 4,
+        "location": "Bangalore",
+        "skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "Computer Vision",
+            "NLP",
+            "Scikit-learn",
+            "MLOps",
+            "SageMaker"
+        ],
+        "industries": [
+            "AI/ML",
+            "Healthcare",
+            "EdTech"
+        ],
+        "current_company": "Flipkart",
+        "education": "M.S. in Artificial Intelligence, IISc Bangalore",
+        "summary": "ML engineer with expertise in computer vision and NLP. Built recommendation systems and fraud detection models improving accuracy by 25%.",
+        "desired_roles": [
+            "ML Engineer",
+            "Senior Data Scientist",
+            "AI Researcher"
+        ],
+        "work_preference": "remote",
+        "compensation_expectation": 2800000,
+        "availability": "1 month",
+        "seniority": "mid",
+        "tags": [
+            "ml",
+            "computer-vision",
+            "nlp",
+            "recommendation-systems"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Rahul Verma",
+        "title": "Data Scientist",
+        "years_experience": 5,
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "SQL",
+            "Tableau",
+            "Power BI",
+            "Spark",
+            "Airflow",
+            "Statistics",
+            "A/B Testing"
+        ],
+        "industries": [
+            "Banking",
+            "Healthcare",
+            "Retail"
+        ],
+        "current_company": "Amazon",
+        "education": "M.Sc. in Statistics, Delhi University",
+        "summary": "Data scientist with strong statistical background. Developed customer segmentation and churn prediction models driving 15% revenue growth.",
+        "desired_roles": [
+            "Data Scientist",
+            "Senior Data Analyst",
+            "Analytics Lead"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 3200000,
+        "availability": "immediate",
+        "seniority": "mid",
+        "tags": [
+            "data-science",
+            "analytics",
+            "statistics",
+            "visualization"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Sneha Reddy",
+        "title": "Product Manager",
+        "years_experience": 7,
+        "location": "Bangalore",
+        "skills": [
+            "Product Strategy",
+            "Roadmapping",
+            "Agile",
+            "User Research",
+            "SQL",
+            "Analytics",
+            "Jira"
+        ],
+        "industries": [
+            "SaaS",
+            "Fintech",
+            "E-commerce"
+        ],
+        "current_company": "Swiggy",
+        "education": "MBA, IIM Ahmedabad",
+        "summary": "Strategic product manager with experience in B2B and B2C products. Launched features impacting 5M+ users and drove 20% increase in engagement.",
+        "desired_roles": [
+            "Senior Product Manager",
+            "Group PM",
+            "VP Product"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 4500000,
+        "availability": "1 month",
+        "seniority": "senior",
+        "tags": [
+            "product-management",
+            "strategy",
+            "b2b",
+            "user-research"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Vikram Singh",
+        "title": "Full Stack Engineer",
+        "years_experience": 5,
+        "location": "Pune",
+        "skills": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "MongoDB",
+            "GraphQL",
+            "AWS",
+            "Docker",
+            "CI/CD"
+        ],
+        "industries": [
+            "SaaS",
+            "Healthcare",
+            "EdTech"
+        ],
+        "current_company": "Freshworks",
+        "education": "B.E. in Computer Science, COEP Pune",
+        "summary": "Full stack developer proficient in React and Node.js. Built customer support platforms serving 50K+ businesses globally.",
+        "desired_roles": [
+            "Full Stack Developer",
+            "Senior Engineer",
+            "Tech Lead"
+        ],
+        "work_preference": "onsite",
+        "compensation_expectation": 3000000,
+        "availability": "2 weeks",
+        "seniority": "mid",
+        "tags": [
+            "fullstack",
+            "react",
+            "nodejs",
+            "typescript"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Ananya Patel",
+        "title": "Technical Recruiter",
+        "years_experience": 4,
+        "location": "Bangalore",
+        "skills": [
+            "Sourcing",
+            "Boolean Search",
+            "LinkedIn Recruiter",
+            "ATS",
+            "Negotiation",
+            "Candidate Engagement"
+        ],
+        "industries": [
+            "Tech",
+            "Fintech",
+            "Startups"
+        ],
+        "current_company": "Unacademy",
+        "education": "MBA in HR, Symbiosis University",
+        "summary": "Technical recruiter with strong network in engineering roles. Placed 100+ engineers at top startups with 95% offer acceptance rate.",
+        "desired_roles": [
+            "Senior Recruiter",
+            "Recruitment Lead",
+            "Talent Acquisition Manager"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 1800000,
+        "availability": "immediate",
+        "seniority": "mid",
+        "tags": [
+            "recruiting",
+            "sourcing",
+            "engineering",
+            "talent-acquisition"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Karthik Nair",
+        "title": "Senior Software Engineer",
+        "years_experience": 8,
+        "location": "Bangalore",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "Kafka",
+            "Elasticsearch",
+            "AWS",
+            "Kubernetes"
+        ],
+        "industries": [
+            "Fintech",
+            "Banking",
+            "E-commerce"
+        ],
+        "current_company": "Cred",
+        "education": "B.Tech in Computer Science, NIT Trichy",
+        "summary": "Backend architect with expertise in building high-scale systems. Designed payment infrastructure handling 1M+ TPS.",
+        "desired_roles": [
+            "Staff Engineer",
+            "Principal Engineer",
+            "Engineering Manager"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 5000000,
+        "availability": "2 months",
+        "seniority": "senior",
+        "tags": [
+            "java",
+            "spring-boot",
+            "architecture",
+            "high-scale"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Meera Joshi",
+        "title": "Data Engineer",
+        "years_experience": 4,
+        "location": "Hyderabad",
+        "skills": [
+            "Python",
+            "Spark",
+            "Airflow",
+            "Snowflake",
+            "dbt",
+            "SQL",
+            "ETL",
+            "Data Modeling"
+        ],
+        "industries": [
+            "Banking",
+            "Retail",
+            "Healthcare"
+        ],
+        "current_company": "Microsoft",
+        "education": "M.Tech in Data Engineering, IIT Hyderabad",
+        "summary": "Data engineer specializing in building data pipelines and warehouses. Created ETL processes processing 500GB+ data daily.",
+        "desired_roles": [
+            "Senior Data Engineer",
+            "Data Platform Engineer",
+            "Tech Lead"
+        ],
+        "work_preference": "remote",
+        "compensation_expectation": 2600000,
+        "availability": "1 month",
+        "seniority": "mid",
+        "tags": [
+            "data-engineering",
+            "spark",
+            "airflow",
+            "snowflake"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Aditya Kumar",
+        "title": "DevOps Engineer",
+        "years_experience": 5,
+        "location": "Bangalore",
+        "skills": [
+            "AWS",
+            "Azure",
+            "Kubernetes",
+            "Terraform",
+            "Jenkins",
+            "GitLab CI",
+            "Prometheus",
+            "Grafana"
+        ],
+        "industries": [
+            "SaaS",
+            "Fintech",
+            "E-commerce"
+        ],
+        "current_company": "Dunzo",
+        "education": "B.Tech in Computer Science, VTU Bangalore",
+        "summary": "DevOps engineer with strong infrastructure automation skills. Built CI/CD pipelines reducing deployment time by 60%.",
+        "desired_roles": [
+            "Senior DevOps Engineer",
+            "SRE",
+            "Platform Engineer"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 2800000,
+        "availability": "2 weeks",
+        "seniority": "mid",
+        "tags": [
+            "devops",
+            "kubernetes",
+            "terraform",
+            "ci-cd"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Lisa Fernandez",
+        "title": "UX Designer",
+        "years_experience": 6,
+        "location": "Bangalore",
+        "skills": [
+            "Figma",
+            "Sketch",
+            "User Research",
+            "Prototyping",
+            "Design Systems",
+            "Wireframing",
+            "Usability Testing"
+        ],
+        "industries": [
+            "SaaS",
+            "Fintech",
+            "E-commerce"
+        ],
+        "current_company": "Razorpay",
+        "education": "B.Des in Interaction Design, NID Bangalore",
+        "summary": "UX designer focused on creating intuitive interfaces. Redesigned checkout flow increasing conversion by 18%.",
+        "desired_roles": [
+            "Senior UX Designer",
+            "Product Designer",
+            "Design Lead"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 2500000,
+        "availability": "1 month",
+        "seniority": "senior",
+        "tags": [
+            "ux-design",
+            "figma",
+            "user-research",
+            "design-systems"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Rohan Gupta",
+        "title": "Machine Learning Engineer",
+        "years_experience": 3,
+        "location": "Bangalore",
+        "skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "MLOps",
+            "Docker",
+            "Kubernetes",
+            "SageMaker",
+            "Feature Store"
+        ],
+        "industries": [
+            "AI/ML",
+            "Fintech",
+            "E-commerce"
+        ],
+        "current_company": "Kunal Shah",
+        "education": "M.S. in Computer Science, IIIT Bangalore",
+        "summary": "ML engineer focused on productionizing models. Deployed recommendation models serving 10M+ predictions daily.",
+        "desired_roles": [
+            "ML Engineer",
+            "Senior ML Engineer",
+            "ML Platform Engineer"
+        ],
+        "work_preference": "remote",
+        "compensation_expectation": 2200000,
+        "availability": "2 weeks",
+        "seniority": "mid",
+        "tags": [
+            "ml-engineering",
+            "mlops",
+            "production-ml",
+            "recommendations"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Divya Menon",
+        "title": "Business Analyst",
+        "years_experience": 4,
+        "location": "Mumbai",
+        "skills": [
+            "SQL",
+            "Excel",
+            "Tableau",
+            "Requirements Gathering",
+            "Process Mapping",
+            "Jira"
+        ],
+        "industries": [
+            "Banking",
+            "Fintech",
+            "Consulting"
+        ],
+        "current_company": "JPMorgan Chase",
+        "education": "BBA, NMIMS Mumbai",
+        "summary": "Business analyst with expertise in financial services. Led digital transformation initiatives saving $2M annually.",
+        "desired_roles": [
+            "Senior Business Analyst",
+            "Product Analyst",
+            "BA Lead"
+        ],
+        "work_preference": "onsite",
+        "compensation_expectation": 2000000,
+        "availability": "1 month",
+        "seniority": "mid",
+        "tags": [
+            "business-analysis",
+            "fintech",
+            "requirements",
+            "analytics"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Sanjay Iyer",
+        "title": "Cloud Engineer",
+        "years_experience": 6,
+        "location": "Hyderabad",
+        "skills": [
+            "AWS",
+            "GCP",
+            "Azure",
+            "Terraform",
+            "Python",
+            "Kubernetes",
+            "Serverless"
+        ],
+        "industries": [
+            "SaaS",
+            "Healthcare",
+            "Retail"
+        ],
+        "current_company": "Salesforce",
+        "education": "B.Tech in Computer Science, JNTU Hyderabad",
+        "summary": "Cloud architect with multi-cloud expertise. Migrated 200+ services to cloud reducing infrastructure costs by 40%.",
+        "desired_roles": [
+            "Senior Cloud Engineer",
+            "Cloud Architect",
+            "DevOps Lead"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 3500000,
+        "availability": "2 months",
+        "seniority": "senior",
+        "tags": [
+            "cloud",
+            "aws",
+            "gcp",
+            "terraform"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Nisha Agarwal",
+        "title": "QA Engineer",
+        "years_experience": 5,
+        "location": "Pune",
+        "skills": [
+            "Selenium",
+            "Cypress",
+            "API Testing",
+            "Postman",
+            "Jest",
+            "TestNG",
+            "CI/CD",
+            "Performance Testing"
+        ],
+        "industries": [
+            "SaaS",
+            "E-commerce",
+            "Fintech"
+        ],
+        "current_company": "Zomato",
+        "education": "B.E. in Computer Science, SPIT Mumbai",
+        "summary": "QA engineer with strong automation skills. Built test frameworks reducing manual testing by 70%.",
+        "desired_roles": [
+            "Senior QA Engineer",
+            "QA Lead",
+            "Test Manager"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 2000000,
+        "availability": "immediate",
+        "seniority": "mid",
+        "tags": [
+            "qa",
+            "automation",
+            "selenium",
+            "api-testing"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Ashwin Krishnan",
+        "title": "iOS Developer",
+        "years_experience": 4,
+        "location": "Bangalore",
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "Objective-C",
+            "Core Data",
+            "REST APIs",
+            "Firebase",
+            "MVVM"
+        ],
+        "industries": [
+            "Fintech",
+            "E-commerce",
+            "Healthcare"
+        ],
+        "current_company": "CRED",
+        "education": "B.Tech in Computer Science, RVCE Bangalore",
+        "summary": "iOS developer with expertise in Swift and SwiftUI. Built secure payment app with 10M+ downloads.",
+        "desired_roles": [
+            "Senior iOS Developer",
+            "Mobile Lead",
+            "iOS Architect"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 2800000,
+        "availability": "1 month",
+        "seniority": "mid",
+        "tags": [
+            "ios",
+            "swift",
+            "mobile",
+            "swiftui"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Tanvi Shah",
+        "title": "Android Developer",
+        "years_experience": 4,
+        "location": "Bangalore",
+        "skills": [
+            "Kotlin",
+            "Java",
+            "Jetpack Compose",
+            "MVVM",
+            "Room",
+            "Retrofit",
+            "Firebase"
+        ],
+        "industries": [
+            "E-commerce",
+            "Fintech",
+            "Social"
+        ],
+        "current_company": "ShareChat",
+        "education": "B.Tech in Computer Science, BMSCE Bangalore",
+        "summary": "Android developer proficient in Kotlin and Jetpack Compose. Built features serving 50M+ monthly active users.",
+        "desired_roles": [
+            "Senior Android Developer",
+            "Mobile Lead",
+            "Android Architect"
+        ],
+        "work_preference": "remote",
+        "compensation_expectation": 2600000,
+        "availability": "2 weeks",
+        "seniority": "mid",
+        "tags": [
+            "android",
+            "kotlin",
+            "mobile",
+            "jetpack-compose"
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Varun Malhotra",
+        "title": "Data Analyst",
+        "years_experience": 3,
+        "location": "Delhi",
+        "skills": [
+            "Python",
+            "SQL",
+            "Excel",
+            "Power BI",
+            "Tableau",
+            "Statistics",
+            "A/B Testing"
+        ],
+        "industries": [
+            "E-commerce",
+            "Retail",
+            "Marketing"
+        ],
+        "current_company": "Myntra",
+        "education": "B.Sc. in Statistics, Delhi University",
+        "summary": "Data analyst with strong statistical and visualization skills. Created dashboards driving 15% improvement in conversion.",
+        "desired_roles": [
+            "Data Analyst",
+            "Senior Data Analyst",
+            "BI Analyst"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 1500000,
+        "availability": "immediate",
+        "seniority": "junior",
+        "tags": [
+            "data-analysis",
+            "tableau",
+            "power-bi",
+            "statistics"
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Riya Khan",
+        "title": "Frontend Engineer",
+        "years_experience": 5,
+        "location": "Bangalore",
+        "skills": [
+            "React",
+            "TypeScript",
+            "Next.js",
+            "CSS",
+            "Tailwind",
+            "Redux",
+            "Jest",
+            "Storybook"
+        ],
+        "industries": [
+            "SaaS",
+            "EdTech",
+            "Fintech"
+        ],
+        "current_company": "Byju's",
+        "education": "B.Tech in Computer Science, Manipal Institute",
+        "summary": "Frontend developer with expertise in React and TypeScript. Built interactive learning platforms serving 5M+ students.",
+        "desired_roles": [
+            "Senior Frontend Developer",
+            "UI Engineer",
+            "Frontend Lead"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 2700000,
+        "availability": "1 month",
+        "seniority": "mid",
+        "tags": [
+            "frontend",
+            "react",
+            "typescript",
+            "nextjs"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Deepak Rao",
+        "title": "Security Engineer",
+        "years_experience": 6,
+        "location": "Bangalore",
+        "skills": [
+            "Penetration Testing",
+            "OWASP",
+            "SIEM",
+            "Firewalls",
+            "Encryption",
+            "Compliance",
+            "Python",
+            "Bash"
+        ],
+        "industries": [
+            "Fintech",
+            "Banking",
+            "SaaS"
+        ],
+        "current_company": "Pine Labs",
+        "education": "B.Tech in Computer Science, IIIT Allahabad",
+        "summary": "Cybersecurity professional with expertise in application security and compliance. Identified 50+ critical vulnerabilities.",
+        "desired_roles": [
+            "Senior Security Engineer",
+            "Security Lead",
+            "CISO"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 3800000,
+        "availability": "2 months",
+        "seniority": "senior",
+        "tags": [
+            "security",
+            "penetration-testing",
+            "owasp",
+            "compliance"
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Shweta Mishra",
+        "title": "Technical Writer",
+        "years_experience": 4,
+        "location": "Pune",
+        "skills": [
+            "Documentation",
+            "API Docs",
+            "Markdown",
+            "Git",
+            "Confluence",
+            "Swagger",
+            "Postman"
+        ],
+        "industries": [
+            "SaaS",
+            "DevTools",
+            "Cloud"
+        ],
+        "current_company": "BrowserStack",
+        "education": "B.A. in English, Symbiosis Pune",
+        "summary": "Technical writer with strong API documentation skills. Created docs improving developer onboarding by 40%.",
+        "desired_roles": [
+            "Senior Technical Writer",
+            "Documentation Lead",
+            "Content Lead"
+        ],
+        "work_preference": "remote",
+        "compensation_expectation": 1400000,
+        "availability": "2 weeks",
+        "seniority": "mid",
+        "tags": [
+            "technical-writing",
+            "api-documentation",
+            "markdown",
+            "docs"
+        ]
+    },
+    {
+        "id": "21",
+        "name": "Abhishek Tripathi",
+        "title": "Site Reliability Engineer",
+        "years_experience": 5,
+        "location": "Bangalore",
+        "skills": [
+            "Linux",
+            "Python",
+            "Prometheus",
+            "Grafana",
+            "Kubernetes",
+            "Docker",
+            "Terraform",
+            "Ansible"
+        ],
+        "industries": [
+            "SaaS",
+            "Fintech",
+            "E-commerce"
+        ],
+        "current_company": "Coinbase",
+        "education": "B.Tech in Computer Science, VIT Vellore",
+        "summary": "SRE with expertise in building reliable infrastructure. Maintained 99.99% uptime for systems serving 1M+ users.",
+        "desired_roles": [
+            "Senior SRE",
+            "SRE Lead",
+            "Platform Engineer"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 3200000,
+        "availability": "1 month",
+        "seniority": "mid",
+        "tags": [
+            "sre",
+            "kubernetes",
+            "monitoring",
+            "reliability"
+        ]
+    },
+    {
+        "id": "22",
+        "name": "Kamala Srinivasan",
+        "title": "Engineering Manager",
+        "years_experience": 10,
+        "location": "Bangalore",
+        "skills": [
+            "Team Management",
+            "Agile",
+            "Technical Architecture",
+            "Stakeholder Management",
+            "Hiring",
+            "Python",
+            "Java"
+        ],
+        "industries": [
+            "Fintech",
+            "E-commerce",
+            "SaaS"
+        ],
+        "current_company": "PhonePe",
+        "education": "M.Tech in Computer Science, IIT Madras",
+        "summary": "Engineering leader with experience building and scaling teams. Managed 50+ engineers delivering payment products.",
+        "desired_roles": [
+            "Director of Engineering",
+            "VP Engineering",
+            "CTO"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 8000000,
+        "availability": "3 months",
+        "seniority": "principal",
+        "tags": [
+            "engineering-management",
+            "leadership",
+            "scale",
+            "payments"
+        ]
+    },
+    {
+        "id": "23",
+        "name": "Omar Sheikh",
+        "title": "Blockchain Developer",
+        "years_experience": 3,
+        "location": "Bangalore",
+        "skills": [
+            "Solidity",
+            "Ethereum",
+            "Web3.js",
+            "Smart Contracts",
+            "NFTs",
+            "DeFi",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "industries": [
+            "Web3",
+            "Fintech",
+            "Gaming"
+        ],
+        "current_company": "Polygon",
+        "education": "B.Tech in Computer Science, BIT Mesra",
+        "summary": "Blockchain developer with expertise in Solidity and DeFi protocols. Built smart contracts managing $100M+ in TVL.",
+        "desired_roles": [
+            "Senior Blockchain Developer",
+            "Web3 Engineer",
+            "Protocol Engineer"
+        ],
+        "work_preference": "remote",
+        "compensation_expectation": 3500000,
+        "availability": "immediate",
+        "seniority": "mid",
+        "tags": [
+            "blockchain",
+            "solidity",
+            "ethereum",
+            "web3"
+        ]
+    },
+    {
+        "id": "24",
+        "name": "Jennifer Dsouza",
+        "title": "HR Business Partner",
+        "years_experience": 6,
+        "location": "Mumbai",
+        "skills": [
+            "Employee Relations",
+            "Performance Management",
+            "Compensation",
+            "HRIS",
+            "SuccessFactors",
+            "Talent Management"
+        ],
+        "industries": [
+            "Tech",
+            "Fintech",
+            "Consulting"
+        ],
+        "current_company": "Goldman Sachs",
+        "education": "MBA in HR, Mumbai University",
+        "summary": "HR professional with expertise in talent management and employee relations. Drove retention programs reducing attrition by 20%.",
+        "desired_roles": [
+            "Senior HR BP",
+            "HR Director",
+            "CHRO"
+        ],
+        "work_preference": "onsite",
+        "compensation_expectation": 2800000,
+        "availability": "2 months",
+        "seniority": "senior",
+        "tags": [
+            "hr",
+            "employee-relations",
+            "talent-management",
+            "hr-business-partner"
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Vivek Chandrasekaran",
+        "title": "Principal Engineer",
+        "years_experience": 12,
+        "location": "Bangalore",
+        "skills": [
+            "System Design",
+            "Python",
+            "Go",
+            "Distributed Systems",
+            "Kafka",
+            "Kubernetes",
+            "ML",
+            "Data Platforms"
+        ],
+        "industries": [
+            "AI/ML",
+            "Fintech",
+            "E-commerce"
+        ],
+        "current_company": "Google",
+        "education": "Ph.D. in Computer Science, IIT Delhi",
+        "summary": "Principal engineer with deep expertise in distributed systems and ML platforms. Led architecture serving 1B+ users.",
+        "desired_roles": [
+            "Distinguished Engineer",
+            "VP Engineering",
+            "Technical Fellow"
+        ],
+        "work_preference": "hybrid",
+        "compensation_expectation": 12000000,
+        "availability": "3 months",
+        "seniority": "principal",
+        "tags": [
+            "principal-engineer",
+            "distributed-systems",
+            "architecture",
+            "ml-platforms"
+        ]
+    }
+]

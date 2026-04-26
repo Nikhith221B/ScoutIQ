@@ -1,0 +1,902 @@
+[
+    {
+        "id": "cand_001",
+        "name": "Priya Sharma",
+        "title": "Senior Software Engineer",
+        "years_experience": 7,
+        "location": "Bangalore, India",
+        "skills": [
+            "Python",
+            "Django",
+            "FastAPI",
+            "PostgreSQL",
+            "Redis",
+            "AWS",
+            "Docker",
+            "Kubernetes"
+        ],
+        "industries": [
+            "FinTech",
+            "E-commerce"
+        ],
+        "education": "B.Tech in Computer Science, IIT Delhi",
+        "previous_companies": [
+            "Flipkart",
+            "Paytm",
+            "Cred"
+        ],
+        "summary": "Experienced backend engineer with strong expertise in building scalable microservices. Led development of payment processing systems handling 10K+ TPS. Passionate about clean architecture and system design.",
+        "preferred_roles": [
+            "Backend Engineer",
+            "Staff Engineer",
+            "Tech Lead"
+        ],
+        "salary_expectation": 4500000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/priya-sharma-001",
+        "email": "priya.sharma@email.com",
+        "tags": [
+            "Python",
+            "Backend",
+            "Microservices",
+            "FinTech"
+        ]
+    },
+    {
+        "id": "cand_002",
+        "name": "Arjun Menon",
+        "title": "Machine Learning Engineer",
+        "years_experience": 5,
+        "location": "Hyderabad, India",
+        "skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "Computer Vision",
+            "NLP",
+            "MLOps",
+            "SageMaker",
+            "SQL"
+        ],
+        "industries": [
+            "AI/ML",
+            "Healthcare"
+        ],
+        "education": "M.S. in Data Science, IIT Hyderabad",
+        "previous_companies": [
+            "AWS",
+            "Microsoft",
+            "HealthTech AI"
+        ],
+        "summary": "ML engineer with expertise in building production ML systems. Developed computer vision models for medical imaging with 95% accuracy. Strong background in MLOps and model deployment at scale.",
+        "preferred_roles": [
+            "ML Engineer",
+            "AI Engineer",
+            "Data Scientist"
+        ],
+        "salary_expectation": 3800000,
+        "notice_period_days": 45,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": false,
+        "linkedin_url": "https://linkedin.com/in/arjun-menon-002",
+        "email": "arjun.menon@email.com",
+        "tags": [
+            "ML",
+            "Computer Vision",
+            "NLP",
+            "Healthcare"
+        ]
+    },
+    {
+        "id": "cand_003",
+        "name": "Sneha Reddy",
+        "title": "Data Engineer",
+        "years_experience": 4,
+        "location": "Chennai, India",
+        "skills": [
+            "Spark",
+            "Python",
+            "SQL",
+            "Airflow",
+            "Snowflake",
+            "dbt",
+            "Kafka",
+            "Databricks"
+        ],
+        "industries": [
+            "E-commerce",
+            "Retail Analytics"
+        ],
+        "education": "B.E. in Computer Science, Anna University",
+        "previous_companies": [
+            "Myntra",
+            "Swiggy",
+            "Amazon"
+        ],
+        "summary": "Data engineer specializing in building real-time data pipelines. Experience with ETL/ELT workflows processing petabytes of data. Expert in Spark optimization and cloud data platforms.",
+        "preferred_roles": [
+            "Data Engineer",
+            "Analytics Engineer",
+            "ETL Developer"
+        ],
+        "salary_expectation": 2800000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/sneha-reddy-003",
+        "email": "sneha.reddy@email.com",
+        "tags": [
+            "Spark",
+            "Data Engineering",
+            "ETL",
+            "Cloud Data"
+        ]
+    },
+    {
+        "id": "cand_004",
+        "name": "Vikram Singh",
+        "title": "Full Stack Developer",
+        "years_experience": 6,
+        "location": "Pune, India",
+        "skills": [
+            "React",
+            "TypeScript",
+            "Node.js",
+            "GraphQL",
+            "MongoDB",
+            "Next.js",
+            "Tailwind",
+            "PostgreSQL"
+        ],
+        "industries": [
+            "SaaS",
+            "EdTech"
+        ],
+        "education": "B.Sc. in Computer Applications, Pune University",
+        "previous_companies": [
+            "Byju's",
+            "Unacademy",
+            "Upgrad"
+        ],
+        "summary": "Full stack developer with strong frontend and backend skills. Built interactive learning platforms serving 1M+ users. Expertise in React performance optimization and scalable API design.",
+        "preferred_roles": [
+            "Full Stack Engineer",
+            "Frontend Engineer",
+            "Software Engineer"
+        ],
+        "salary_expectation": 3200000,
+        "notice_period_days": 60,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/vikram-singh-004",
+        "email": "vikram.singh@email.com",
+        "tags": [
+            "React",
+            "Full Stack",
+            "Node.js",
+            "EdTech"
+        ]
+    },
+    {
+        "id": "cand_005",
+        "name": "Ananya Patel",
+        "title": "Data Scientist",
+        "years_experience": 3,
+        "location": "Mumbai, India",
+        "skills": [
+            "Python",
+            "Scikit-learn",
+            "Pandas",
+            "SQL",
+            "Tableau",
+            "Statistics",
+            "A/B Testing",
+            "Excel"
+        ],
+        "industries": [
+            "Banking",
+            "Consulting"
+        ],
+        "education": "M.Sc. in Statistics, IIT Bombay",
+        "previous_companies": [
+            "Deloitte",
+            "KPMG",
+            "HDFC Bank"
+        ],
+        "summary": "Data scientist with strong statistical background. Experience in customer segmentation, churn prediction, and business intelligence. Published researcher in applied machine learning.",
+        "preferred_roles": [
+            "Data Scientist",
+            "Business Analyst",
+            "Research Scientist"
+        ],
+        "salary_expectation": 2200000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": false,
+        "linkedin_url": "https://linkedin.com/in/ananya-patel-005",
+        "email": "ananya.patel@email.com",
+        "tags": [
+            "Data Science",
+            "Statistics",
+            "Analytics",
+            "Banking"
+        ]
+    },
+    {
+        "id": "cand_006",
+        "name": "Rohan Khanna",
+        "title": "DevOps Engineer",
+        "years_experience": 5,
+        "location": "Delhi NCR, India",
+        "skills": [
+            "AWS",
+            "Terraform",
+            "Kubernetes",
+            "Jenkins",
+            "GitLab CI",
+            "Docker",
+            "Linux",
+            "Ansible"
+        ],
+        "industries": [
+            "Cloud Infrastructure",
+            "Telecom"
+        ],
+        "education": "B.Tech in Information Technology, DTU",
+        "previous_companies": [
+            "Airtel",
+            "TCS",
+            "Wipro"
+        ],
+        "summary": "DevOps engineer with expertise in cloud infrastructure and CI/CD. Built automated deployment pipelines reducing release time by 70%. Strong in infrastructure as code and observability.",
+        "preferred_roles": [
+            "DevOps Engineer",
+            "SRE",
+            "Cloud Engineer"
+        ],
+        "salary_expectation": 3500000,
+        "notice_period_days": 45,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/rohan-khanna-006",
+        "email": "rohan.khanna@email.com",
+        "tags": [
+            "DevOps",
+            "AWS",
+            "Kubernetes",
+            "CI/CD"
+        ]
+    },
+    {
+        "id": "cand_007",
+        "name": "Meera Nair",
+        "title": "AI Research Engineer",
+        "years_experience": 4,
+        "location": "Bangalore, India",
+        "skills": [
+            "Python",
+            "PyTorch",
+            "Deep Learning",
+            "LLMs",
+            "RAG",
+            "LangChain",
+            "Hugging Face",
+            "CUDA"
+        ],
+        "industries": [
+            "AI/ML",
+            "Generative AI"
+        ],
+        "education": "M.Tech in AI, IISc Bangalore",
+        "previous_companies": [
+            "Google",
+            "AI21 Labs",
+            "Microsoft"
+        ],
+        "summary": "AI researcher focused on LLM applications and RAG systems. Published papers on efficient transformer architectures. Built production systems for document understanding and conversational AI.",
+        "preferred_roles": [
+            "AI Engineer",
+            "Research Engineer",
+            "NLP Engineer"
+        ],
+        "salary_expectation": 4200000,
+        "notice_period_days": 60,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/meera-nair-007",
+        "email": "meera.nair@email.com",
+        "tags": [
+            "LLM",
+            "RAG",
+            "Generative AI",
+            "NLP"
+        ]
+    },
+    {
+        "id": "cand_008",
+        "name": "Karthik Raj",
+        "title": "Backend Engineer",
+        "years_experience": 8,
+        "location": "Bangalore, India",
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "Kafka",
+            "Redis",
+            "MongoDB",
+            "Elasticsearch",
+            "gRPC"
+        ],
+        "industries": [
+            "FinTech",
+            "Payments"
+        ],
+        "education": "B.E. in Computer Science, RV College of Engineering",
+        "previous_companies": [
+            "Razorpay",
+            "PhonePe",
+            "Stripe"
+        ],
+        "summary": "Senior backend engineer with deep expertise in financial systems. Built payment gateways processing $1B+ annually. Expert in high-concurrency systems and distributed computing.",
+        "preferred_roles": [
+            "Senior Backend Engineer",
+            "Principal Engineer",
+            "Engineering Manager"
+        ],
+        "salary_expectation": 5500000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": false,
+        "linkedin_url": "https://linkedin.com/in/karthik-raj-008",
+        "email": "karthik.raj@email.com",
+        "tags": [
+            "Java",
+            "FinTech",
+            "Microservices",
+            "Payments"
+        ]
+    },
+    {
+        "id": "cand_009",
+        "name": "Divya Krishnan",
+        "title": "Product Data Analyst",
+        "years_experience": 3,
+        "location": "Bangalore, India",
+        "skills": [
+            "SQL",
+            "Python",
+            "Looker",
+            "Tableau",
+            "Google Analytics",
+            "A/B Testing",
+            "Product Analytics",
+            "Excel"
+        ],
+        "industries": [
+            "SaaS",
+            "Product"
+        ],
+        "education": "BBA in Business Analytics, SIMS",
+        "previous_companies": [
+            "Freshworks",
+            "Zoho",
+            "HubSpot"
+        ],
+        "summary": "Product analyst driving data-informed decisions. Built dashboards tracking key product metrics. Experience in funnel analysis, cohort tracking, and feature experimentation.",
+        "preferred_roles": [
+            "Product Analyst",
+            "Data Analyst",
+            "Growth Analyst"
+        ],
+        "salary_expectation": 1800000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/divya-krishnan-009",
+        "email": "divya.krishnan@email.com",
+        "tags": [
+            "Product Analytics",
+            "SQL",
+            "BI",
+            "SaaS"
+        ]
+    },
+    {
+        "id": "cand_010",
+        "name": "Aditya Verma",
+        "title": "Cloud Architect",
+        "years_experience": 9,
+        "location": "Delhi NCR, India",
+        "skills": [
+            "AWS",
+            "Azure",
+            "GCP",
+            "Terraform",
+            "CloudFormation",
+            "Serverless",
+            "Python",
+            "Go"
+        ],
+        "industries": [
+            "Cloud Services",
+            "Enterprise Software"
+        ],
+        "education": "B.Tech in Computer Science, NIT Surathkal",
+        "previous_companies": [
+            "Accenture",
+            "Infosys",
+            "TCS"
+        ],
+        "summary": "Cloud architect designing enterprise-scale infrastructure. Led migration of 500+ workloads to cloud. Expert in cost optimization and multi-cloud strategies.",
+        "preferred_roles": [
+            "Cloud Architect",
+            "Solutions Architect",
+            "Technical Architect"
+        ],
+        "salary_expectation": 6000000,
+        "notice_period_days": 60,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/aditya-verma-010",
+        "email": "aditya.verma@email.com",
+        "tags": [
+            "Cloud Architecture",
+            "AWS",
+            "Multi-cloud",
+            "Infrastructure"
+        ]
+    },
+    {
+        "id": "cand_011",
+        "name": "Shruti Iyer",
+        "title": "Frontend Engineer",
+        "years_experience": 4,
+        "location": "Mumbai, India",
+        "skills": [
+            "React",
+            "Vue.js",
+            "TypeScript",
+            "CSS",
+            "Webpack",
+            "Jest",
+            "Cypress",
+            "Accessibility"
+        ],
+        "industries": [
+            "FinTech",
+            "Media"
+        ],
+        "education": "B.Sc. in Computer Science, Mumbai University",
+        "previous_companies": [
+            "CRED",
+            "Netflix",
+            "Disney+ Hotstar"
+        ],
+        "summary": "Frontend engineer specializing in performance and accessibility. Built components used by 50M+ users. Expert in modern JavaScript frameworks and UI/UX implementation.",
+        "preferred_roles": [
+            "Frontend Engineer",
+            "UI Engineer",
+            "Software Engineer"
+        ],
+        "salary_expectation": 2600000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/shruti-iyer-011",
+        "email": "shruti.iyer@email.com",
+        "tags": [
+            "React",
+            "Frontend",
+            "UI/UX",
+            "FinTech"
+        ]
+    },
+    {
+        "id": "cand_012",
+        "name": "Nikhil Joshi",
+        "title": "Site Reliability Engineer",
+        "years_experience": 6,
+        "location": "Pune, India",
+        "skills": [
+            "Kubernetes",
+            "Prometheus",
+            "Grafana",
+            "Linux",
+            "Python",
+            "Go",
+            "Observability",
+            "Incident Management"
+        ],
+        "industries": [
+            "SaaS",
+            "E-commerce"
+        ],
+        "education": "B.E. in Computer Engineering, COEP",
+        "previous_companies": [
+            "Amazon",
+            "Flipkart",
+            "Atlassian"
+        ],
+        "summary": "SRE with expertise in building reliable distributed systems. Reduced MTTR by 60% through improved observability. Strong in on-call practices and incident response.",
+        "preferred_roles": [
+            "SRE",
+            "DevOps Engineer",
+            "Platform Engineer"
+        ],
+        "salary_expectation": 3800000,
+        "notice_period_days": 45,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": false,
+        "linkedin_url": "https://linkedin.com/in/nikhil-joshi-012",
+        "email": "nikhil.joshi@email.com",
+        "tags": [
+            "SRE",
+            "Observability",
+            "Kubernetes",
+            "Reliability"
+        ]
+    },
+    {
+        "id": "cand_013",
+        "name": "Riya Malhotra",
+        "title": "NLP Engineer",
+        "years_experience": 4,
+        "location": "Bangalore, India",
+        "skills": [
+            "Python",
+            "NLP",
+            "Transformers",
+            "Hugging Face",
+            "Spacy",
+            "NLTK",
+            "BERT",
+            "Text Classification"
+        ],
+        "industries": [
+            "AI/ML",
+            "Legal Tech"
+        ],
+        "education": "M.S. in Computer Science, IIIT Bangalore",
+        "previous_companies": [
+            "LegalTech AI",
+            "Kira Systems",
+            "CaseText"
+        ],
+        "summary": "NLP specialist focused on document understanding and text analytics. Built models for legal document classification with 90%+ accuracy. Experience in domain-specific language models.",
+        "preferred_roles": [
+            "NLP Engineer",
+            "AI Engineer",
+            "Machine Learning Engineer"
+        ],
+        "salary_expectation": 3400000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/riya-malhotra-013",
+        "email": "riya.malhotra@email.com",
+        "tags": [
+            "NLP",
+            "Text Analytics",
+            "Legal Tech",
+            "Transformers"
+        ]
+    },
+    {
+        "id": "cand_014",
+        "name": "Sanjay Pillai",
+        "title": "Database Engineer",
+        "years_experience": 7,
+        "location": "Hyderabad, India",
+        "skills": [
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Redis",
+            "Database Design",
+            "Query Optimization",
+            "Data Modeling",
+            "SQL"
+        ],
+        "industries": [
+            "Banking",
+            "Healthcare"
+        ],
+        "education": "B.Tech in Computer Science, NIT Warangal",
+        "previous_companies": [
+            "Oracle",
+            "Microsoft",
+            "Apollo Hospitals"
+        ],
+        "summary": "Database engineer with expertise in design and optimization. Managed databases handling petabytes of data. Expert in query tuning, replication, and high-availability architectures.",
+        "preferred_roles": [
+            "Database Engineer",
+            "DBA",
+            "Data Engineer"
+        ],
+        "salary_expectation": 4000000,
+        "notice_period_days": 45,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": false,
+        "linkedin_url": "https://linkedin.com/in/sanjay-pillai-014",
+        "email": "sanjay.pillai@email.com",
+        "tags": [
+            "Database",
+            "PostgreSQL",
+            "Performance",
+            "Data Architecture"
+        ]
+    },
+    {
+        "id": "cand_015",
+        "name": "Aisha Khan",
+        "title": "Security Engineer",
+        "years_experience": 5,
+        "location": "Delhi NCR, India",
+        "skills": [
+            "Penetration Testing",
+            "OWASP",
+            "SIEM",
+            "Firewalls",
+            "Cryptography",
+            "Python",
+            "SOC",
+            "Compliance"
+        ],
+        "industries": [
+            "Cybersecurity",
+            "FinTech"
+        ],
+        "education": "B.Tech in Computer Science, Amity University",
+        "previous_companies": [
+            "QuickHeal",
+            "Seqrite",
+            "Paytm"
+        ],
+        "summary": "Security engineer with experience in application and infrastructure security. Conducted 100+ penetration tests. Expert in threat modeling and security compliance.",
+        "preferred_roles": [
+            "Security Engineer",
+            "Application Security",
+            "SecOps Engineer"
+        ],
+        "salary_expectation": 3600000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/aisha-khan-015",
+        "email": "aisha.khan@email.com",
+        "tags": [
+            "Security",
+            "Penetration Testing",
+            "AppSec",
+            "Cybersecurity"
+        ]
+    },
+    {
+        "id": "cand_016",
+        "name": "Varun Bhatia",
+        "title": "iOS Developer",
+        "years_experience": 5,
+        "location": "Bangalore, India",
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "iOS",
+            "Objective-C",
+            "Core Data",
+            "Firebase",
+            "REST APIs",
+            "XCTest"
+        ],
+        "industries": [
+            "FinTech",
+            "E-commerce"
+        ],
+        "education": "B.E. in Information Science, BMS College of Engineering",
+        "previous_companies": [
+            "PhonePe",
+            "Swiggy",
+            "Dunzo"
+        ],
+        "summary": "iOS developer with 5 apps on App Store with 1M+ downloads. Built secure payment UIs and offline-first features. Expert in SwiftUI and UIKit performance optimization.",
+        "preferred_roles": [
+            "iOS Developer",
+            "Mobile Engineer",
+            "Software Engineer"
+        ],
+        "salary_expectation": 3000000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/varun-bhatia-016",
+        "email": "varun.bhatia@email.com",
+        "tags": [
+            "iOS",
+            "Swift",
+            "Mobile",
+            "App Development"
+        ]
+    },
+    {
+        "id": "cand_017",
+        "name": "Tanvi Shah",
+        "title": "Android Developer",
+        "years_experience": 4,
+        "location": "Mumbai, India",
+        "skills": [
+            "Kotlin",
+            "Java",
+            "Android",
+            "Jetpack Compose",
+            "Room",
+            "MVVM",
+            "Coroutines",
+            "Firebase"
+        ],
+        "industries": [
+            "FinTech",
+            "Social Media"
+        ],
+        "education": "B.Sc. in Computer Science, University of Mumbai",
+        "previous_companies": [
+            "ShareChat",
+            "Moj",
+            "DailyHunt"
+        ],
+        "summary": "Android developer with experience in building apps with 10M+ MAU. Built video streaming and social features. Expert in Kotlin, Jetpack Compose, and performance tuning.",
+        "preferred_roles": [
+            "Android Developer",
+            "Mobile Engineer",
+            "Software Engineer"
+        ],
+        "salary_expectation": 2600000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/tanvi-shah-017",
+        "email": "tanvi.shah@email.com",
+        "tags": [
+            "Android",
+            "Kotlin",
+            "Mobile",
+            "Jetpack"
+        ]
+    },
+    {
+        "id": "cand_018",
+        "name": "Deepak Kumar",
+        "title": "QA Automation Engineer",
+        "years_experience": 6,
+        "location": "Chennai, India",
+        "skills": [
+            "Selenium",
+            "Playwright",
+            "Cypress",
+            "Python",
+            "API Testing",
+            "CI/CD",
+            "Jest",
+            "TestNG"
+        ],
+        "industries": [
+            "SaaS",
+            "E-commerce"
+        ],
+        "education": "B.Tech in Computer Science, SRM University",
+        "previous_companies": [
+            "Zoho",
+            "Freshworks",
+            "Amazon"
+        ],
+        "summary": "QA automation engineer building robust test frameworks. Automated 500+ test cases reducing manual effort by 70%. Expert in API testing and test pipeline integration.",
+        "preferred_roles": [
+            "QA Engineer",
+            "SDET",
+            "Test Automation Engineer"
+        ],
+        "salary_expectation": 2800000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/deepak-kumar-018",
+        "email": "deepak.kumar@email.com",
+        "tags": [
+            "QA Automation",
+            "Selenium",
+            "Testing",
+            "CI/CD"
+        ]
+    },
+    {
+        "id": "cand_019",
+        "name": "Ishaan Gupta",
+        "title": "Blockchain Developer",
+        "years_experience": 3,
+        "location": "Bangalore, India",
+        "skills": [
+            "Solidity",
+            "Ethereum",
+            "Web3.js",
+            "Smart Contracts",
+            "Python",
+            "JavaScript",
+            "NFTs",
+            "DeFi"
+        ],
+        "industries": [
+            "Web3",
+            "FinTech"
+        ],
+        "education": "B.Tech in Computer Science, VIT Vellore",
+        "previous_companies": [
+            "Polygon",
+            "CoinDCX",
+            "Biconomy"
+        ],
+        "summary": "Blockchain developer with experience in DeFi protocols and smart contracts. Audited contracts with $100M+ TVL. Expert in Solidity and EVM-compatible chains.",
+        "preferred_roles": [
+            "Blockchain Developer",
+            "Web3 Engineer",
+            "Smart Contract Developer"
+        ],
+        "salary_expectation": 3200000,
+        "notice_period_days": 30,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": true,
+        "linkedin_url": "https://linkedin.com/in/ishaan-gupta-019",
+        "email": "ishaan.gupta@email.com",
+        "tags": [
+            "Blockchain",
+            "Solidity",
+            "Web3",
+            "DeFi"
+        ]
+    },
+    {
+        "id": "cand_020",
+        "name": "Avni Desai",
+        "title": "Engineering Manager",
+        "years_experience": 10,
+        "location": "Pune, India",
+        "skills": [
+            "Team Management",
+            "Agile",
+            "System Design",
+            "Python",
+            "Java",
+            "Stakeholder Management",
+            "Technical Roadmap",
+            "Mentorship"
+        ],
+        "industries": [
+            "SaaS",
+            "Enterprise Software"
+        ],
+        "education": "M.B.A. in Technology Management, Symbiosis",
+        "previous_companies": [
+            "Salesforce",
+            "ServiceNow",
+            "SAP"
+        ],
+        "summary": "Engineering manager leading teams of 15+ engineers. Delivered enterprise products used by Fortune 500 companies. Strong in technical strategy, hiring, and team development.",
+        "preferred_roles": [
+            "Engineering Manager",
+            "Senior Engineering Manager",
+            "Director"
+        ],
+        "salary_expectation": 7500000,
+        "notice_period_days": 60,
+        "work_authorization": "Indian Citizen",
+        "open_to_remote": false,
+        "linkedin_url": "https://linkedin.com/in/avni-desai-020",
+        "email": "avni.desai@email.com",
+        "tags": [
+            "Engineering Management",
+            "Leadership",
+            "Strategy",
+            "Enterprise"
+        ]
+    }
+]

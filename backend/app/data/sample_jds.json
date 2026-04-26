@@ -1,0 +1,90 @@
+[
+    {
+        "id": "jd-001",
+        "title": "Senior Backend Engineer",
+        "company": "TechCorp India",
+        "location": "Bangalore",
+        "type": "full-time",
+        "remote_policy": "hybrid",
+        "description": "We are looking for a Senior Backend Engineer to join our platform team. You will be responsible for building scalable microservices that power our consumer-facing products.",
+        "raw_text": "Senior Backend Engineer - TechCorp India\n\nLocation: Bangalore (Hybrid)\nExperience: 4-6 years\n\nAbout the Role:\nWe are looking for a Senior Backend Engineer to join our platform team. You will be responsible for building scalable microservices that power our consumer-facing products.\n\nRequirements:\n- 4-6 years of experience in backend development\n- Strong proficiency in Python (Django/FastAPI) or Java (Spring Boot)\n- Experience with microservices architecture\n- Knowledge of PostgreSQL, Redis, Kafka\n- Experience with AWS/GCP cloud platforms\n- Familiarity with Docker and Kubernetes\n\nNice to Have:\n- Experience in fintech or payment systems\n- Knowledge of event-driven architectures\n- Experience with GraphQL\n\nResponsibilities:\n- Design and implement scalable backend services\n- Collaborate with product and design teams\n- Write clean, testable code\n- Participate in code reviews and mentoring\n- Contribute to technical architecture decisions\n\nCompensation:\n₹25L - ₹40L per annum\n\nBenefits:\n- Hybrid work model\n- Health insurance\n- Learning budget",
+        "required_skills": [
+            "Python",
+            "Django",
+            "FastAPI",
+            "Java",
+            "Spring Boot",
+            "Microservices",
+            "PostgreSQL",
+            "Redis",
+            "Kafka",
+            "AWS"
+        ],
+        "preferred_skills": [
+            "GraphQL",
+            "Fintech",
+            "Event-driven"
+        ],
+        "experience_min": 4,
+        "experience_max": 6,
+        "salary_min": 2500000,
+        "salary_max": 4000000
+    },
+    {
+        "id": "jd-002",
+        "title": "Machine Learning Engineer",
+        "company": "AI Innovations",
+        "location": "Bangalore",
+        "type": "full-time",
+        "remote_policy": "remote",
+        "description": "Join our AI team to build and deploy machine learning models at scale. You will work on recommendation systems, NLP pipelines, and computer vision applications.",
+        "raw_text": "Machine Learning Engineer - AI Innovations\n\nLocation: Remote\nExperience: 2-5 years\n\nAbout the Role:\nJoin our AI team to build and deploy machine learning models at scale. You will work on recommendation systems, NLP pipelines, and computer vision applications.\n\nRequirements:\n- 2-5 years of experience in ML engineering\n- Strong Python skills\n- Experience with TensorFlow or PyTorch\n- Knowledge of ML lifecycle and MLOps\n- Familiarity with cloud ML platforms (AWS SageMaker, GCP Vertex AI)\n- Strong understanding of ML algorithms and statistics\n\nNice to Have:\n- Experience with recommendation systems\n- Knowledge of NLP transformers\n- Experience with vector databases\n\nResponsibilities:\n- Build and productionize ML models\n- Design feature engineering pipelines\n- Optimize model performance\n- Collaborate with data engineers and product teams\n\nCompensation:\n₹20L - ₹35L per annum\n\nBenefits:\n- Fully remote\n- Flexible hours\n- Conference attendance",
+        "required_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "MLOps",
+            "SageMaker",
+            "Statistics",
+            "ML Algorithms"
+        ],
+        "preferred_skills": [
+            "Recommendation Systems",
+            "NLP",
+            "Vector Databases"
+        ],
+        "experience_min": 2,
+        "experience_max": 5,
+        "salary_min": 2000000,
+        "salary_max": 3500000
+    },
+    {
+        "id": "jd-003",
+        "title": "Full Stack Engineer",
+        "company": "StartupX",
+        "location": "Pune",
+        "type": "full-time",
+        "remote_policy": "onsite",
+        "description": "We are seeking a Full Stack Engineer to build our next-generation SaaS platform. You will work across the stack from database to UI, collaborating closely with our product team.",
+        "raw_text": "Full Stack Engineer - StartupX\n\nLocation: Pune (On-site)\nExperience: 3-5 years\n\nAbout the Role:\nWe are seeking a Full Stack Engineer to build our next-generation SaaS platform. You will work across the stack from database to UI, collaborating closely with our product team.\n\nRequirements:\n- 3-5 years of full stack development experience\n- Proficiency in React and TypeScript\n- Node.js or Python backend experience\n- Experience with PostgreSQL and MongoDB\n- Knowledge of REST and GraphQL APIs\n- Familiarity with Git and CI/CD pipelines\n\nNice to Have:\n- Experience building SaaS products\n- Knowledge of authentication (OAuth, JWT)\n- Experience with testing frameworks\n\nResponsibilities:\n- Develop features end-to-end\n- Write clean, maintainable code\n- Participate in agile ceremonies\n- Mentor junior developers\n\nCompensation:\n₹18L - ₹28L per annum\n\nBenefits:\n- On-site work\n- Stock options\n- Team building activities",
+        "required_skills": [
+            "React",
+            "TypeScript",
+            "Node.js",
+            "PostgreSQL",
+            "MongoDB",
+            "REST API",
+            "GraphQL",
+            "Git"
+        ],
+        "preferred_skills": [
+            "SaaS",
+            "OAuth",
+            "Testing"
+        ],
+        "experience_min": 3,
+        "experience_max": 5,
+        "salary_min": 1800000,
+        "salary_max": 2800000
+    }
+]
