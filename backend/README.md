@@ -1,6 +1,6 @@
 # Backend Application
 
-FastAPI backend for AI-Powered Talent Scouting & Engagement Agent.
+FastAPI backend for ScoutIQ: AI-Powered Talent Scouting & Engagement Agent.
 
 ## Quick Start
 
