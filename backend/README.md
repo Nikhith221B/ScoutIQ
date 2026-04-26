@@ -2,6 +2,10 @@
 
 FastAPI backend for ScoutIQ: AI-Powered Talent Scouting & Engagement Agent.
 
+## Deployed URL
+
+- `https://scoutiq-pt2f.onrender.com`
+
 ## Quick Start
 
 ```bash

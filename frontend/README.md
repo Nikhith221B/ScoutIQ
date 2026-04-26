@@ -2,6 +2,10 @@
 
 Next.js frontend for AI-Powered Talent Scouting & Engagement Agent.
 
+## Deployed URL
+
+- `https://scout-fh5lj7zv8-nikhith221bs-projects.vercel.app/`
+
 ## Quick Start
 
 ```bash

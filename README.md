@@ -1,5 +1,11 @@
 # ScoutIQ: AI - Talent Scouting & Engagement Agent
 
+## Live demo
+
+- **Web app (Vercel)**: `https://scout-fh5lj7zv8-nikhith221bs-projects.vercel.app/`
+- **API base (Render)**: `https://scoutiq-pt2f.onrender.com`
+- **Demo video (3–5 min)**: _add link_
+
 ## Overview
 
 ScoutIQ: AI - Talent Scouting & Engagement Agent is a full‑stack, recruiter-facing demo app that turns a free‑form job description into a **ranked shortlist** of candidates with **transparent scoring** and **concise, recruiter-friendly explanations**.
@@ -151,24 +157,6 @@ Demo data is stored locally:
 ## Environment Variables
 
 See `.env.example` in both backend and frontend directories.
-
-## Deployment (free + simple)
-
-This project is split into two services.
-
-### Backend (Render)
-
-- Create a Render **Web Service** from this repo.
-- **Root directory**: `backend`
-- **Build command**: `pip install -r requirements.txt`
-- **Start command**: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
-- (Optional) Set `CORS_ALLOW_ORIGINS` if you want to lock CORS to specific domains.
-
-### Frontend (Vercel)
-
-- Import the same repo into Vercel.
-- **Root directory**: `frontend`
-- Set `NEXT_PUBLIC_API_URL` to your deployed Render backend URL (example: `https://your-backend.onrender.com`).
 
 ## Development
 
