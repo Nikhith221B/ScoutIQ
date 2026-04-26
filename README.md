@@ -4,7 +4,7 @@
 
 - **Web app (Vercel)**: `https://scout-fh5lj7zv8-nikhith221bs-projects.vercel.app/`
 - **API base (Render)**: `https://scoutiq-pt2f.onrender.com`
-- **Demo video (3–5 min)**: _add link_
+- **Demo video (3–5 min)**: https://drive.google.com/file/d/19kLy77Vk7mXdTXwVooASXSSrIEj3xLlW/view?usp=sharing
 
 ## Overview
 
