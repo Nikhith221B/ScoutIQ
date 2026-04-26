@@ -1,8 +1,8 @@
-# AI - Talent Scouting & Engagement Agent
+# ScoutIQ: AI - Talent Scouting & Engagement Agent
 
 ## Overview
 
-AI - Talent Scouting & Engagement Agent is a full‑stack, recruiter-facing demo app that turns a free‑form job description into a **ranked shortlist** of candidates with **transparent scoring** and **concise, recruiter-friendly explanations**.
+ScoutIQ: AI - Talent Scouting & Engagement Agent is a full‑stack, recruiter-facing demo app that turns a free‑form job description into a **ranked shortlist** of candidates with **transparent scoring** and **concise, recruiter-friendly explanations**.
 
 - **Frontend**: Next.js 14 + Tailwind CSS (`frontend/`)
 - **Backend**: FastAPI (`backend/`)
